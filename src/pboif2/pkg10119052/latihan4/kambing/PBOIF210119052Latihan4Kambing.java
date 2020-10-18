@@ -2,9 +2,11 @@ package pboif2.pkg10119052.latihan4.kambing;
 
 /**
  *
- * Nama : Rizki Dwi Nugraha
- * Kelas : IF-2
- * NIM : 10119052
+ * NAMA   : Rizki Dwi nugraha
+ * KELAS  : IF-2
+ * NIM    : 10119052
+ * Deskripsi Program : Program ini berisi program untuk mendeklarasi variabel 
+ * lokal
  * 
  */
 public class PBOIF210119052Latihan4Kambing {
